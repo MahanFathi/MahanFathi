@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 	<a href="https://github.com/MahanFathi"><img src="https://img.shields.io/github/followers/MahanFathi.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/vforvaricocele"><img src="https://img.shields.io/twitter/follow/vforvaricocele?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/mahanfathi"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://www.reddit.com/user/MahanFathi"><img src="https://img.shields.io/reddit/user-karma/combined/MahanFathi?style=social" alt="Reddit"></a>
