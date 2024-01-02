@@ -13,13 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <p align="center">
-	<a href="https://github.com/MahanFathi"><img src="https://img.shields.io/github/followers/MahanFathi.svg?label=GitHub&style=social" alt="GitHub"></a>
-<!-- 	<a href="https://twitter.com/vforvaricocele"><img src="https://img.shields.io/twitter/follow/vforvaricocele?label=Twitter&style=social" alt="Twitter"></a> -->
-	<a href="https://www.reddit.com/user/MahanFathi"><img src="https://img.shields.io/reddit/user-karma/combined/MahanFathi?label=reddit&style=social" alt="Reddit"></a>
-<!-- 	<a href="https://www.instagram.com/8iteme/"><img src="https://img.shields.io/badge/Instagram--RGB(0%2C%200%2C%200)?style=social&logo=instagram" alt="Instagram"></a> -->
-	<a href="https://medium.com/@mahanfathi"><img src="https://img.shields.io/badge/Medium--RGB(0%2C%200%2C%200)?style=social&logo=medium" alt="Medium"></a>
+<!-- 	<a href="https://github.com/MahanFathi"><img src="https://img.shields.io/github/followers/MahanFathi.svg?label=GitHub&style=social" alt="GitHub"></a> -->
+	<a href="https://mahanfathi.github.io/uploads/mahan_fathi_cv.pdf"><img src="https://img.shields.io/badge/Curriculum_Vitae--RGB(0%2C%200%2C%200)?style=social&logo=lbry" alt="CV"></a>
 	<a href="https://www.linkedin.com/in/mahanfathi"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<!-- 	<a href="https://mahanfathi.github.io/cv/index.html"><img src="https://img.shields.io/badge/Curriculum_Vitae--RGB(0%2C%200%2C%200)?style=social&logo=lbry" alt="CV"></a> -->
+	<a href="https://twitter.com/MahanFathi"><img src="https://img.shields.io/twitter/follow/MahanFathi?label=Twitter&style=social" alt="Twitter"></a>
+<!-- 	<a href="https://www.reddit.com/user/MahanFathi"><img src="https://img.shields.io/reddit/user-karma/combined/MahanFathi?label=reddit&style=social" alt="Reddit"></a> -->
+	<a href="https://www.instagram.com/8iteme/"><img src="https://img.shields.io/badge/Instagram--RGB(0%2C%200%2C%200)?style=social&logo=instagram" alt="Instagram"></a>
+	<a href="https://medium.com/@mahanfathi"><img src="https://img.shields.io/badge/Medium--RGB(0%2C%200%2C%200)?style=social&logo=medium" alt="Medium"></a>
 <p/>
