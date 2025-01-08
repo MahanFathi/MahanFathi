@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <!-- 	<a href="https://github.com/MahanFathi"><img src="https://img.shields.io/github/followers/MahanFathi.svg?label=GitHub&style=social" alt="GitHub"></a> -->
-	<a href="https://mahanfathi.github.io/uploads/mahan_fathi_cv.pdf"><img src="https://img.shields.io/badge/Curriculum_Vitae--RGB(0%2C%200%2C%200)?style=social&logo=lbry" alt="CV"></a>
+	<a href="https://mahanfathi.github.io/mahan-fathi-cv/mahan-fathi-cv.pdf"><img src="https://img.shields.io/badge/Curriculum_Vitae--RGB(0%2C%200%2C%200)?style=social&logo=lbry" alt="CV"></a>
 	<a href="https://www.linkedin.com/in/mahanfathi"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://twitter.com/MahanFathi"><img src="https://img.shields.io/twitter/follow/MahanFathi?label=Twitter&style=social" alt="Twitter"></a>
 <!-- 	<a href="https://www.reddit.com/user/MahanFathi"><img src="https://img.shields.io/reddit/user-karma/combined/MahanFathi?label=reddit&style=social" alt="Reddit"></a> -->
